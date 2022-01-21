@@ -3,8 +3,9 @@ RENCANA KONTEN WPU
 -nabung
  *potong tiap gajian
  *apaja
-  +ga jajan
-  +yang penting aja
+  +seneng aja
+-susah
 -ngirit
- +puasa
+ *puasa
 -ngutang
+-iya aja
