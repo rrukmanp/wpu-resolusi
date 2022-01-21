@@ -3,5 +3,6 @@ RENCANA KONTEN WPU
 -nabung
  *potong tiap gajian
  *apaja
+-susah
 -ngirit
 -ngutang
